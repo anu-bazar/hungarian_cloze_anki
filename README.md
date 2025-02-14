@@ -75,3 +75,7 @@ This project is based on open-source data and is intended for educational purpos
 #### Acknowledgments
 
 Largely inspired by sookocheff.com and this would not be possible without the amazing people at the Tatoeba project!
+
+#### MISC
+
+General Keywords: Hungarian language learning Anki flashcards Cloze deletion flashcards Hungarian vocabulary practice Language learning automation Anki deck generator Hungarian sentence pairs Tatoeba dataset processing Frequency-based word removal Automated flashcard creation Technical Python script for Anki CSV processing in Python Bulk sentence processing Text parsing with Python Hungarian-English translation dataset Frequency analysis for language learning Natural language processing (NLP) for flashcards Cloze deletion automation Sentence tokenization in Python Cleaning text datasets Anki-Specific Anki language learning deck Anki automation with Python Spaced repetition system (SRS) Anki import CSV Creating custom Anki flashcards Generating Anki decks programmatically Anki cloze format Best Anki decks for Hungarian Learning Hungarian with Anki 
